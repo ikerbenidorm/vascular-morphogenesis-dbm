@@ -20,7 +20,7 @@ Vascular morphogenesis models blood vessel network self-organization using a **D
 vascular-morphogenesis-gpu/
 ├── data/               # Outputs: .mp4 animations, .pdf plots, gifs
 ├── main.ipynb          # Main simulation + physics + visualization
-├── references.bib      # Main simulation + physics + visualization
+├── references.bib      # References
 └── README.md           # This file
 ```
 
